@@ -1,0 +1,27 @@
+{
+  "name": "egypt-bank-rates-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezzeldin380/egypt-bank-rates-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ezzeldin380/egypt-bank-rates-scraper/issues"
+  },
+  "homepage": "https://github.com/Ezzeldin380/egypt-bank-rates-scraper#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.1",
+    "axios": "^1.17.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2"
+  }
+}
